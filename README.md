@@ -106,6 +106,8 @@ Saque: R$400.00
 O saldo atual da conta: R$ 600.00
 ```
 
-🧑‍💻 Autor
+## 🧑‍💻 Autor
+
 **Luis Fernando Sosnoski de Souza**
+
 Curso: Santander 2025 - Back-End com Python
